@@ -1,3 +1,9 @@
+### Актуальные проекты
+* zoomboard — три кнопки для участия в Zoom-созвонах с поднятием руки и вкл/выкл микрофона (обычно курсы)
+* todo — бэклоги крохотных проектов в текстовых dot-файлах
+* spiski — reverse engineering конкурсных списков поступления в вузы на бюджет
+* digicards — карточки для изучения иностранных языков в фоновом режиме
+
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
