@@ -1,5 +1,5 @@
 ### Актуальные проекты
-* [zoomboard](https://github.com/olgapavlova/zoomboard) — три кнопки для участия в Zoom-созвонах с поднятием руки и вкл/выкл микрофона (обычно курсы)
+* [zoomboard](https://github.com/olgapavlova/zoomboard) — три кнопки для участия в Zoom-созвонах с поднятием руки и вкл/выкл микрофона
 * [todo](https://github.com/olgapavlova/todo) — бэклоги крохотных проектов в текстовых dot-файлах
 * [spiski](https://github.com/olgapavlova/spiski) — reverse engineering конкурсных списков поступления в вузы на бюджет
 * [digicards](https://github.com/olgapavlova/digicards) — карточки для изучения иностранных языков в фоновом режиме
