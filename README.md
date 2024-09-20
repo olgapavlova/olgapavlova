@@ -3,6 +3,7 @@
 * [todo](https://github.com/olgapavlova/todo) — бэклоги крохотных проектов в текстовых dot-файлах
 * [spiski](https://github.com/olgapavlova/spiski) — reverse engineering конкурсных списков поступления в вузы на бюджет
 * [digicards](https://github.com/olgapavlova/digicards) — карточки для изучения иностранных языков в фоновом режиме
+* [pytest-oneline](https://github.com/olgapavlova/pytest-oneline) — кастомайзинг строк отчёта pytest
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
