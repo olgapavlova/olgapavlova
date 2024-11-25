@@ -16,4 +16,4 @@
 ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
 
 * [Публикации на Хабре](https://habr.com/ru/users/olgapavlova/publications/articles/)
-* [Лекции](lectures/) (стримы + конспекты) по C
+* [Лекции](https://github.com/olgapavlova/lectures) (стримы + конспекты) по C
