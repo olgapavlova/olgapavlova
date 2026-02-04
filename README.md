@@ -1,4 +1,4 @@
 * [Публикации на Хабре](https://habr.com/ru/users/olgapavlova/publications/articles/)
 * [Лекции](https://github.com/olgapavlova/lectures) (стримы + конспекты) по C • записи лежат на [Youtube-канале](http://youtube.com/@olgapavlova)
 ---
-📙 «[Я хочу сделать хороший дизайн продукта](https://dmkpress.com/catalog/business/978-5-93700-435-2/)» — заказ книги в издательстве, код на скидку `OPavlova_dmk`
+📙 Книга **«Я хочу сделать хороший дизайн продукта»** — [магазин издательства](https://dmkpress.com/catalog/business/978-5-93700-435-2/) • [Озон](https://www.ozon.ru/product/ya-hochu-sdelat-horoshiy-dizayn-produkta-pavlova-o-3118912833/)
