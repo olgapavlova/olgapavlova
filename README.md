@@ -2,7 +2,10 @@
 
 ---
 
-⭕️ **Лекции по C и рядом** — [конспекты + код](https://github.com/olgapavlova/lectures) • `каждую пятницу` стримы на [Twitch](https://www.twitch.tv/olgampavlova) • записи на [Youtube](http://youtube.com/@olgapavlova)
+⭕️ **Рассказы про низко- и разноуровневое** — язык C, разные железки и что ещё получится
+- `каждую пятницу` прямой эфир на [Twitch](https://www.twitch.tv/olgampavlova)
+- записи на [Youtube](http://youtube.com/@olgapavlova)
+- [конспекты + код](https://github.com/olgapavlova/stream) прямо здесь
 
 ---
 
