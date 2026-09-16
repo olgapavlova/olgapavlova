@@ -1,4 +1,6 @@
 <me>
-  <search>false</search>
-  <salary>0</salary>
+  <work>
+    <search>false</search>
+    <salary>0</salary>
+  </work>
 </me>
