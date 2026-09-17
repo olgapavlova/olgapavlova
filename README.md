@@ -9,4 +9,4 @@
 
 ---
 
-📙 Книга **«Я хочу сделать хороший дизайн продукта»** — [магазин издательства](https://dmkpress.com/catalog/business/978-5-93700-435-2/) • [Озон](https://www.ozon.ru/product/ya-hochu-sdelat-horoshiy-dizayn-produkta-pavlova-o-3118912833/)
+📙 Книга **«Я хочу сделать хороший дизайн продукта»** — [магазин издательства](https://olgpv.me/to/mybook-dmk) • [Озон](https://olgpv.me/to/mybook-ozon)
