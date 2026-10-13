@@ -1,4 +1,4 @@
-🐱 [Публикации на Хабре](https://habr.com/ru/users/olgapavlova/publications/articles/)
+🐱 Длинные статьи → [Хабр](https://habr.com/ru/users/olgapavlova/publications/articles/) • [Substack](https://olgpv.substack.com/)
 
 ---
 
