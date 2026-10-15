@@ -2,7 +2,7 @@
 
 ---
 
-⭕️ видеоканал **Привычка программировать** — от драйверов до LLM, но ближе к C, чем к Python
+⭕️ видеоканал **«Привычка программировать»** — от драйверов до LLM, но ближе к C, чем к Python
 - `каждую пятницу` прямой эфир на [Twitch](https://www.twitch.tv/olgampavlova)
 - записи на [Youtube](http://youtube.com/@olgapavlova)
 - [конспекты + код](https://github.com/olgapavlova/stream) прямо здесь
