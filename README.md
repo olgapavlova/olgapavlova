@@ -2,7 +2,7 @@
 
 ---
 
-⭕️ **Низкоуровневый код и железо** — язык C, UNIX-утилиты, одноплатники и что ещё получится
+⭕️ **Привычка программировать** — от драйверов до LLM, от C до Python (но ближе к C)
 - `каждую пятницу` прямой эфир на [Twitch](https://www.twitch.tv/olgampavlova)
 - записи на [Youtube](http://youtube.com/@olgapavlova)
 - [конспекты + код](https://github.com/olgapavlova/stream) прямо здесь
